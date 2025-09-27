@@ -30,7 +30,19 @@ Or you can do this a few months out to give you enough time and to have more opt
 
 **The script**
 
-[Note: There was a screenshot of the script in the original, but the text was not clearly visible in the HTML]
+"Hi there
+
+Beautiful apartment! I'm currently looking for places to stay in Canggu, from the 30th June until 7th July, but I have a few questions:
+
+1. Could you please tell me how fast is the internet speed? As I work online good internet is really important to me.
+
+2. I'm a bit on a budget, would you be able to offer those dates for 6mil IDR?
+I'm a great guest, check my reviews :)
+
+Look forward to staying with you!
+
+Thank you
+Denis"
 
 As I mentioned, the process is super simple. It just requires you to put a little bit of work and reach out to the hosts.
 
