@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ultimate Summary: Traction by Gino Wickman - Get a Grip on Your Business"
+title: "Traction by Gino Wickman: Ultimate Summary"
 date: 2022-05-07
 tags: [business-management, entrepreneurship, leadership, business-strategy, organizational-development]
 description: "A comprehensive summary of Gino Wickman's 'Traction', providing actionable insights for entrepreneurs to strengthen their business's six key components and achieve operational excellence."
