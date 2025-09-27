@@ -36,6 +36,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
