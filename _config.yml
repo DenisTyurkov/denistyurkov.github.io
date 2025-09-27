@@ -41,6 +41,7 @@ collections:
     output: true
     permalink: /:title/
 
+gtm_id: "GTM-K9D2PC8B"  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
