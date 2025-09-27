@@ -588,6 +588,536 @@ Key to success:
 3. What is the expected goal is for the week for each category?
    1. Tied directly to the 1 year plan
 4. Put in next week date
-   1. 90 days at a time into the future
+   1. 90 days at a time, so about 12 - 13 weeks total
+5. Decide who is accountable for collecting the numbers & fill in
+   1. How will receive the numbers?
+6. Use it
+   1. Keep the history too
 
-The summary captures the book's core message: "Vision without traction is merely hallucination."
+**3 Scorecard Rules of Thumb**
+
+1. The numbers should be weekly activity based numbers
+   1. The score card is not P&L but acts as a prediction whether we are on track for strong P&L
+   2. Example
+      1. New sales numbers that come in
+      2. Number of new leads generated
+         1. Number of contacts
+         2. Number of closes / proposals etc
+      3. Client Satisfaction
+         1. What factors drive happy customers?
+2. Proactive tool to anticipate problems before they happen
+   1. Still need to monitor P&L and budgets
+3. When managing a scorecard clients find value in red flagging
+   1. If the number set is not hit, then shade that number using the colour RED
+
+### #2 Measurables
+
+* What gets measured gets DONE
+* Everyone has single measurable number to guide their work
+  * Creates clarity throughout the team
+* Everyone has a number
+  * Numbers cut through the communication
+    * No longer watered down answers "This week is going great"
+  * Numbers create accountability
+  * Accountable people appreciate numbers
+    * Wrong people in wrong seats resist numbers
+    * Right people want to win
+  * Numbers create clarity and commitment
+  * Numbers create competition
+  * Numbers produce results
+    * What gets watched improves
+  * Numbers create teamwork
+    * Ask themselves "How can we hit that number?"
+  * Numbers solve problems faster
+* Creating a transparent organisation where nowhere to hide
+
+## Chapter 6: The issues component - Decide
+
+* Be disciplined and solve organisation issues as they arise
+* In the organisation where there is nothing to hide, problems will be resolved quickly
+* Human nature is to put off hard decisions
+* Ability to succeed is in proportionate to the ability to solve problems
+  * The better you are at solving problems the more successful you are
+* **Biggest Failure Point - Lack of decision & procrastination**
+* Every millionaire / successful entrepreneur
+  * Reaches decision promptly and then changes them slowly
+* **What drains the energy?**
+  * Not lots of work to do, but unresolved issues
+* It is less important what you decide vs that you decide
+  * More is lost by indecision vs wrong decisions
+
+### The Issues List
+
+* Create a workplace where people are comfortable to point out issues that hinder vision
+* Leadership needs to be open with each other
+* High level of trust is what makes the team healthy & functional
+* 3 Types of Issues Lists
+  * Issues lists in VTO
+    * Tackled at the end of the quarters or further out
+    * These issues don't fall in the immediate category but need to be tracked, so the team doesn't lose sight of them
+    * For example
+      * New product ideas
+      * Office relocations
+      * HR policies
+  * Weekly leadership issues list
+    * Resolved in weekly meetings
+    * We don't resolve departmental issues
+      * If can be resolved at department level then push it down
+    * Issues include
+      * Company rocks offtrack
+      * Bad number in scorecard
+      * Key employee issues
+      * Client issues
+      * Process problems
+  * Departmental issues list
+    * Related to each specific department
+    * If no issues, then can try the following
+      * Bring 2 issues every week for the meeting
+      * If none, then they can't attend the meeting
+
+### The Issues Solving Track
+
+* Why usually nothing gets resolved within leaders?
+  * Fear of conflict
+  * Lack of focus
+  * Lack of Commitment
+  * Personal Ego
+* There is more efficient way to solve things
+* **Steps to find solutions**
+  * **Identify**
+    * Examine and decide on top 3 issues to solve
+    * Don't go from top to bottom, identify important ones
+    * Clearly identify the real issue, as stated issue is not usually the real one
+      * Most causes of real issues are people
+    * Can take the longest time vs other steps, as it takes time to get to the route cause
+    * Issues owners responsibility to make it clear what is the issue
+  * **Discuss**
+    * Most time spent here but the issue is it hasn't been identified
+    * Opportunity to say what they think but only once
+    * Have to fight for greater good and benefit the whole company vs you as individual or your team
+    * **The #'1 reason most teams keep talking is because they go on Tangents**
+      * Get in the habit of pointing out Tangents
+      * Then put it on the issue list
+  * **Solve**
+    * Made every decision as we are going to a "Super Bowl" as if we are achieving our vision
+    * Must have vision first, if you don't know where you are going then can't make decisions
+    * Solving issues takes time but long term is better
+    * **3 types of resolutions**
+      * Solved and requires actions
+      * Awareness "we all agree"
+      * More research & facts , and bring it to next meeting
+    * **10 commandments of solving issues**
+      * Though shall not rule by consensus / need to make final decision
+        * Someone needs to step as integrator
+      * Shall not be a Winnie
+        * Strong will
+        * Make tough decision
+      * Be decisive
+        * Make decisions quickly
+        * Less important what you decide vs that you decide
+      * Not rely on 2nd hand information
+        * Issues involving others
+        * Need everyone to be at the meeting
+      * Fight for greater good
+      * Don't solve them all
+        * One at a time in priority
+        * Quality vs quantity
+      * Live with it, end it or change it
+        * Stop complaining, living with it is last resort
+      * Choose short term pain suffering
+        * Solve problems now
+      * Enter the danger
+        * Issue we fear the most must be discussed / solved now
+      * Take a shot
+        * Propose a solution
+        * Don't wait for others
+      * Solution statement
+        * Once the solution is found, then voice it out
+        * Hear sweet sound of solution
+    * Personal issue solving session- facilitated by 3rd party
+      * Have each of the party prepare and share what he or she believes 3 strengths/weaknesses are
+      * List all the issues and solve them
+      * List the action items from solutions
+      * 30 days later meet that action issues been solved
+
+## Chapter 7: The process component - finding your way
+
+* The secret to success - Consistency
+* Nothing can be fine-tuned unless its consistent
+* Have to understand the core processes - on average 7 that make up our unique business model
+* Need to make sure everyone within the organisation understands
+* What are all the moving parts within the business?
+  * Take time to view from the top
+  * Can't be in the systems while understanding the system you are in. Need to raise the system from time to time
+* Identify Process + Documenting + Everyone Follow it = Clear Way
+  * No longer let the business run you
+  * From there you can sell the business, let someone run it, or take time off
+* 2 major steps
+  * Document the core processes
+  * Followed by all
+
+### Documenting The Core Processes
+
+* Three stages
+  * **Identify core processes**
+    * Schedule an hour with the leadership team, so can call the processes the same name
+    * Need to identify and agree what the name is
+    * Core process include
+      * HR - search / fire / promote / retain people
+      * Marketing - get message to target audience and generate interest to what we do
+      * Sales - process of converting prospect to a customer
+      * Operations - the way you make the product or provide service to customer
+        * Project Management
+        * Logistic
+        * Warehouse Distribution
+        * Service Technician
+      * Accounting - flow / management of money coming in and out
+      * Customer Retention - proactive way you take care of your customers and retain them after
+    * Leadership teams need to be 100% on the same page with names and processes
+    * Everyone will speak the same language
+    * Need to call the processes that way from the start
+  * **Document what happens in each one of them**
+    * Accountability chart comes into play as the person responsible for each department takes charge of documenting it
+      * Head of Sales takes Sales processes etc
+    * Follow 20/80 Rule when documenting
+      * Document 20% of processes that bring 80% of results aka document at high level
+      * Document steps at high level with procedures underneath them
+    * By documenting, it will help to bring the processes to light and present an opportunity to dumb them down
+    * Processes should be bulletproof
+      * Checklists have a huge benefit
+    * If one of you disappear tomorrow, can it be followed
+  * **Compile information in single package for everyone in the company**
+    * Put it all together and save it in a shared drive
+
+### Followed by all
+
+* When followed by all, it is much easier to manage and spot where the issues are
+* The leadership team must be convinced that everyone needs to follow 1 system
+* Most of the time the step fails is because the owner doesn't follow the process
+  * Because if you don't see the value, how the people can
+* The best way to convince your employees is to show a clear way of what it looks like
+* Action steps
+  * Create a visual
+  * Schedule a meeting or share it at the next quarterly meeting
+  * Retrain everyone
+  * Manage your people to follow the process
+
+## Chapter 8: Traction
+
+* Bridge the gap between vision and execution
+* Bringing discipline into organisation will make people a bit uncomfortable
+* Two disciplines to gain traction
+  * Set specific measurable priorities aka **Rocks**
+  * Meet better as organisation aka **Meeting Pulse**
+
+### Rocks
+
+* Short term priorities towards the vision
+* Establish 3-7 priorities for the next 90 days
+  * **aka Rocks**
+* Break it down into bite sized focus projects so then it's achievable and not overwhelming
+* Every department, as it trickles down to employees, will have rocks
+* The aim is to move company forward 90 days at a time
+* Once you set the company rocks and leadership rocks, then communicate these rocks to the organisation so they can set theirs
+  * This creates alignment
+* Work on rocks first and everything else will fall into place
+* Do Less Accomplish More
+  * Fewer priorities are better
+* **Process**
+  * Every 90 days the team meets for a day
+  * Reviews the vision
+  * Determines the rocks based on that
+* **Establishing the Rocks**
+  * List everything on the white board to accomplish in the next 90 days
+    * 10-20 items list
+  * Discuss, Debate & Determine the most important priorities
+    * Kill , Keep or Combine
+    * Down to 3-7 priorities
+  * Set the date when the rocks are due
+    * Usually by end of the Quarter
+  * Define Each one by making sure objective are clear
+    * Specific, Manageable, Attainable
+    * It's not vague, must be clear so no ambiguity at the end of the quarter that it was done or not
+  * Assign who owns each rock
+    * Owned by 1 person on the leadership team
+    * When more than 1 is accountable then no one is accountable
+  * Once the company rocks are set, leadership team sets their own rocks
+    * Come up with most 3-7
+    * Some company rocks can become personal
+    * Other rocks can be moved forward
+  * Create the Rock Sheet
+    * Top organisation rocks
+    * Leadership rocks below
+    * Used in Weekly Meetings Review
+    * **Note:**
+      * Once the rocks are set, no new ones are to be added even if its a genius idea
+  * Share company rocks with entire organisation
+    * Meet with the organisation to share success, progress and VTO
+  * Have each dept set their rocks as a team
+    * Follow same process as a leadership team
+    * While leadership and company have rocks of 3-7, everyone else (employees) will have 1-3
+* **Rocks Pitfalls**
+  * Garbage in, Garbage Out
+    * If set wrong rocks, then will be spent in the wrong direction
+    * Takes 2 quarters to master rocks - true mastery comes from experience
+  * Commitment fizzle
+    * Make sure you are committed to your rocks and you commit to quarterly routine
+  * Too many rocks
+    * Don't give people more than 3 rocks
+    * Accountability is too much
+
+### Meeting Pulse
+
+* Let's dispel the myth that meetings are a waste of time
+* To gain more traction, we will most likely need to do more meetings than we currently do
+* A meeting pulse with specific agenda will keep the organisation healthy
+  * By setting more frequent meetings to review progress, for example, will create a spike to get stuff done
+* **Two types of meetings**
+  * Quarterly
+  * Weekly
+
+### Quarterly Meeting
+
+* 90 Day World - comes that every 90 days humans go off track
+* If you don't continue to align with the quarterly goals it will lead to going off track and will lead to chaos in the organisation
+* Recommendation
+  * Hold off site if possible
+* The EOS
+  * Who? Leadership team
+  * Where? Offsite
+  * Duration? 8 hours?
+  * Frequency - 90 days
+  * Prework
+    * Vision Traction Organiser complete
+    * Brings issues
+    * Propose priorities
+  * Agenda
+    * Segue - sets the tone for the meeting
+      * Etch person to share 3 things
+        * Best business and personal news in the last 90 days
+      * What is working? And not in the business?
+      * Expectations for the day?
+    * Review Previous Quarter
+      * Review all the numbers
+      * Rocks - what is done or not done?
+        * Strive for 80% completion or better, understand why and learn
+          * Took too much on
+          * Someone dropped the ball
+    * Review the VTO
+      * The purpose is to refresh memory of the vision and that everyone is on the same page
+      * If there is any confusion around VTO, then it needs to be solved there
+    * Establish next quarter Rocks
+      * Same process as setting rocks
+    * Tackle Key Issues
+      * What makes great meetings is solving issues
+      * Make sure all issues are on the list
+      * The List
+        * Remove all issues that will be resolved by the new rocks
+        * Tackle new issues using the issue solving track
+    * Next Steps
+      * Anyone is discussing the next steps and what everyone is doing
+    * Conclude
+      * Share 3 things
+        * Feedback on meeting
+        * Expectations met or not
+        * Rating 1-10, avg. above 8
+
+### The EOS Annual Meeting
+
+* Who? Leadership team
+* Where? Offsite
+* Duration? 2 days
+* Frequency - every year
+* **Pre-work**
+  * Bring Completed Vision Traction organiser
+  * Budget for the year
+  * Thoughts on Goals for the year
+* **Agenda**
+  * Day 1
+    * Segue
+      * Organisations 3 greatest accomplishments for the year
+      * His/hers personal greatest accomplishment for the year
+      * Expectations for the 2 days
+    * Review previous year
+      * Goals
+      * Numbers
+      * Last Quarters Rocks
+      * Achieving 80% of the goals
+    * Team health building
+      * One thing Exercise - each team member receives a feedback on their greatest strength or weakness to the success of the company.
+        * Exercise is done in the open with everyone present, including the leadership team
+        * 2 hours max for this exercise
+    * SWAT issues list
+      * Provide an opportunity for everyone in the organisation to provide SWAT
+      * Use the issues identified from this to add it to the issues list, so then it can be solved
+    * VTO through 1 year plan
+      * Challenge the company vision
+      * Make sure everyone is still onboard for the 10 year target
+      * Discuss and debate, so then everyone is one the same page
+      * Based on that, then throw out the 3 year picture and create a new one
+        * After 1 year, you have more information and it makes sense to review the 3 year plan and adjust it accordingly
+      * Make sure everyone agrees on the same image 3 years from now
+        * Got to make 1 year plan after 3 year plan is done
+  * Day 2 - refer to Quarterly for steps
+    * Establish next quarters rocks
+    * Tackle Key Issues
+    * Next Steps
+    * Conclude
+* **Annual Planning Tips**
+  * Day 1 flows over into Day 2, don't let it rush
+  * Have dinner as a team at Day 1
+  * Get away for the meeting
+  * Build up - people prepare better for it without them knowing it
+    * Must always preschedule Quarterly meetings
+
+### Weekly Meeting Pulse
+
+* Once quarterly goals are set, then it's important to meet on weekly basis to keep track of progress
+* If you are on track for the week, then you are on track for the quarter, then for year
+* **Level 10 Meeting**
+  * Agenda is focusing on what's important
+  * Keeps you focused on what's important
+  * Identifies issues and helps solves problems
+* **Meeeting**
+  * Who: Leadership Team
+  * Where: Online / Room
+  * Duration: 90 minutes
+  * Frequency: Weekly
+  * Preparation:
+    * Rocks established
+    * Rocks sheet created
+    * Scorecard Complete
+    * Issues solving track understood by everyone
+  * Agenda - fit on 1 sheet
+    * Segue - 5 minutes
+      * Meeting starts promptly
+      * Share good news to segue into the meeting
+      * Reminds that we are all human beings trying to create something
+    * Scorecard: 5 minutes
+      * Examine 5-15 most important numbers in the organisation & make sure they are on track
+      * Any numbers that are not on track moved to IDS
+      * Should identify just the problem areas, not discussed there
+    * Rocks Review - 5 minutes
+      * Focus on Rocks and make sure they are on track
+      * Review first company rocks and then individual rocks
+        * Each person reports whether it is on track or not track. No discussion
+          * If off track, then IDS
+          * On track, feels will accomplish by the quarter. If wants to discuss it, then move to IDS
+    * Customer Employee Headlines - 5 min
+      * Share short & sweet news from customers or employees. Either good or bad.
+        * Joe is happy with X
+        * Darla is upset with Y
+      * This is good time to pat everyone on the back
+      * Any concerns, issues to be dropped to the IDS
+    * To do list - 5 min
+      * Review all to-dos from last weeks meetings.
+      * A 7 day action items - things that are completed in a week
+        * For example, I will release the code tonight. I will call X tomorrow
+      * Review: Either Done or Not Done
+        * Done - then cross off
+        * Not Done, then keep on the list but not for longer than 2 weeks
+          * 90% of them should drop off
+          * Hold team accountable to the commitments they made that week
+    * IDS - 60 min
+      * Great meetings focus on solving problems
+      * Identify the most important 3 issues and work on them first, as 1 to 3. Then tackle others
+        * It is a mistake to just go through a list without identifying the importance
+      * Once the issue is identified, and solution is presented then put it on To do list
+        * Next week, confirm that the To Do has been done and issue is solved
+    * Conclude - 5 min
+      * Pull the whole meeting together and make no loose ends
+      * Recap new to do list
+      * Restate the items and confirm everyone has it written down
+      * Discuss if any messages are needed in the communicating to the organisation
+      * Have everyone rate the meeting of 1-10
+        * Aim for an 8
+  * **Roles:**
+    * 1 person must run the meeting
+    * 1 must manage the agenda
+      * Update To - do every week and
+      * Update Issues list
+  * **Key Points**
+    * Start on time
+    * End on time
+    * Have an agenda
+  * Once the leadership has set the meeting on a frequent basis, then roll it out within departments
+
+## Chapter 9: Putting it All Together
+
+* Mastery requires total commitment
+* With the leadership team finds the GAPS of where you are and where you want to go
+  * Put them onto the issues list and then have a priority of which ones to tackle
+* Once leadership team mastered the tools from this book, then roll out to the rest
+  * First roll out to the people that report to the leadership team
+  * If you are a 10 people company that will cover everyone, but the bigger the company the more it will take
+* Foundational Tools
+  * VTO
+  * Accountability Chart
+  * Rocks
+  * Meeting Pulse
+  * Scorecard
+* You have to do the work
+  * Just because you read this, doesn't mean your business will get better - do the work
+* Use 5 Leadership Abilities when Hitting the Ceiling
+  * Simplify using EOS Tool - less is more
+  * Delegate & Elevate
+  * Predict Well - Short Term & LT
+  * Systemise by Consistently Managing Core Processes
+  * Structure your organisation the right way
+* Compartmentalising
+  * Any idea or action that is longer than 90 days is listed on the VTO issues list
+  * Anything that must be accomplished this year is a Goal
+  * If it takes weeks or months must be accomplished this Quarter, then its a Rock
+  * Issues for departments go down to departments
+* Same page meetings
+  * Leaderships is 100% on the same page - crucial for the team / company
+    * When not in synch, people will know it
+  * Every month, meet up and clear the air. Discussing thoughts and solve issues before getting back into company
+  * Must maintain united front before employees
+  * If can't get on the same page, then try counselling or coaching
+* Great leaders have a quiet thinking time
+  * For about 1 hour a day
+  * Where thoughts are not interrupted
+* **Shiny Stuff**
+  * Fidgety and get destructed by shiny stuff, when business is going well
+    * Mostly happens by visionaries
+  * Strategies to keep focused & engaged
+    * Find a challenge inside the business
+    * Put your energy into something that will perpetuate current vision
+    * Dive into projects that will boost core values and people
+    * Experiment with products that are inline with the business
+    * Interview top clients - what's working and not working for them
+      * Take employee to lunch and ask the same
+    * Test current products & see if they are relevant
+  * If you are still getting distracted by the shiny stuff, then go explore
+    * The business must be protected though
+    * The business integrator must be comfortable with the reduced time commitment
+    * Can't drain any resources or energy of the current company
+  * Choose 1 discipline and stick with it
+
+### Stay Focused
+
+* People would be happier and more successful if they stayed focused
+* So much shiny stuff these days
+
+## Chapter 10: Getting Started
+
+* **Sequence / Order of Implementation**
+  * Accountability Chart - People Analyse & GWC
+  * Rocks
+  * Meeting Pulse - IDS, Lvl 10 meeting, quarterly and annuals
+  * ScoreCard
+  * VTO - core values, core focus
+  * 3 step process documented
+  * Everyone has a number
+
+Hope you found this summary useful.
+
+Personally, I started implementing the values first and reviewed them. Then I quickly tried to implement the core focus and goals, which translated into Rocks.
+
+I feel this book can be implemented rather quickly, if the organisation is small, and improved over time. The key is doing it and learning along the way, as this book mentions it few times.
+
+The main challenge I'm currently facing is:
+
+* Identifying the 3-10 year goals, as I'm not sure if I see myself in that particular business that long. So need to adjust there.
+* And if I don't see myself that long, then what are the steps from here.
